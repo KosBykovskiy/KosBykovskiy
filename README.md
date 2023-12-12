@@ -1,18 +1,8 @@
 ### Hi there, I'm Konstantin!👋
 #### I'm junior data analyst, from Moscow.
 
-
-<!--
-**KosBykovskiy/KosBykovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-###🌱 I’m currently learning in HSE for Data Analyst.
+- 🌱 I’m currently learning in HSE for Data Analyst.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-### How to reach me: +7-919-777-25-00 (telegram,whats-up) , kos.bykovskiy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with first work.
+- How to reach me: +7-919-777-25-00 (telegram,whats-up) , kos.bykovskiy@gmail.com
+- My profile on Kaggle ( https://www.kaggle.com/konstantinbykvosky)
